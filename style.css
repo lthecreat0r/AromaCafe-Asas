@@ -11,7 +11,7 @@ html {
 body {
   font-family: "Inter", Arial, sans-serif;
   background: #f7f3ef;
-  color: #3b2f2f;
+  color: #F4C472;
   line-height: 1.6;
 }
 
@@ -23,8 +23,8 @@ h4 {
 }
 
 header {
-  background: #5c3d2e;
-  color: white;
+  background: #361712;
+  color: wheat;
   position: sticky;
   top: 0;
   z-index: 100;
@@ -66,7 +66,7 @@ nav a {
 }
 
 nav a:hover {
-  color: white;
+  color: whitesmoke;
   background: rgba(255, 255, 255, 0.1);
 }
 
