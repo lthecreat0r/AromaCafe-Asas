@@ -1,4 +1,4 @@
-# ☕ Aroma Café
+# ☕ Cáfezin bom
 
 Projeto desenvolvido para fins educacionais, simulando o site institucional de uma cafeteria fictícia.
 
